@@ -1,0 +1,2 @@
+# lifirst
+setting up git
